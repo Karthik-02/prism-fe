@@ -41,3 +41,6 @@ All requests include `credentials: include` to reuse the backend JWT cookie. Fal
 - `app/page.tsx` is the mission console overview.
 - `app/prs/page.tsx`, `app/releases/page.tsx`, `app/release-notes/page.tsx`, `app/users/page.tsx`, `app/roles/page.tsx`, `app/email-domains/page.tsx`, `app/audit/page.tsx`, and `app/profile/page.tsx` deliver the full admin panels.
 - See `pageDoc.md` for a breakdown of each page/zone and the APIs it touches.
+
+## User Interface
+<img width="1818" height="992" alt="image" src="https://github.com/user-attachments/assets/1f3d5729-06e7-4f6b-8281-ee435216bcf2" />
